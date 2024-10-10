@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\SeminarskiMIPS\Kod_mikroC\Kod.mcppi
+Project1=..\NoviPokusaj\NoviKod.mcppi
+Project2=wakeup.mcppi
+[ActiveProject]
+Index=2

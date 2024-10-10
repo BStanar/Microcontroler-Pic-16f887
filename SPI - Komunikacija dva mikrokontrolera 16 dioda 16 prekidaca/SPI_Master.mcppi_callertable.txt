@@ -1,0 +1,4 @@
+main
+	SpiInit
+	SpiWrite
+	SpiRead
